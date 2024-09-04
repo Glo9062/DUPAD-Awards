@@ -291,3 +291,15 @@ Analytics)), Shan Yan (MSc(Urban Analytics)), Xu Zhichen (MSc(Urban
 Analytics)), Yang Zhao (MSc(Urban Analytics))
 >
 > **Slides**: [https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/EXHPLXy_lgJPm3kQJNR4dHQBTguMCnPrS0thXvDA7FSB2w?e=lEFSJa](https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/EXHPLXy_lgJPm3kQJNR4dHQBTguMCnPrS0thXvDA7FSB2w?e=lEFSJa)
+
+### Hong Kong/Shanghai Co-op Open Data Challenge
+
+#### 2024
+
+Smart Economy Award
+
+> **Group Name**: Lens
+>
+> **Group Members**: Li Yueshan May (MUA 2024), Xu Wenhe (MUA 2024), Ding Xiangwen (MUA 2024)
+>
+> **Slides**: [https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/ETmN3AXCbrVNvezHCKxi7VwBg6_9ugPgrPci23XFZIWM9Q?e=VDXdGt](https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/ETmN3AXCbrVNvezHCKxi7VwBg6_9ugPgrPci23XFZIWM9Q?e=VDXdGt)
