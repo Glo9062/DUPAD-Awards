@@ -22,6 +22,18 @@
 
 ## Awards
 
+### HKSTP & Spatial Data Office of the Development Bureau's Joint Program
+
+#### 2025
+
+Finalist
+
+> **Project Title**: Paws in Hong Kong
+>
+> **Group Members**: Xiao Jiacheng, Yi Chushu, Cao Run, Gu Xiang, Li Xintian
+>
+> **Slides**: [https://drive.google.com/drive/folders/1A4OcQshnTCKTxZBZ_vPUxTjSUSq2g_LR](https://drive.google.com/file/d/1SsmpAjy37nIflARDDziCPQWkW-cTZ5Fn/view?usp=drive_link)
+
 ### ESRI YSA Awards
 
 #### 2024
