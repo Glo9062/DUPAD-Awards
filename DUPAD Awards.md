@@ -8,6 +8,8 @@
 
 [**ESRI YSA Awards**](#esri-ysa-awards)
 
+[2025](#2025)
+
 [2024](#2024)
 
 [2023](#2023)
@@ -39,6 +41,94 @@ Finalist
 > **Slides**: [https://drive.google.com/drive/folders/1A4OcQshnTCKTxZBZ_vPUxTjSUSq2g_LR](https://drive.google.com/file/d/1SsmpAjy37nIflARDDziCPQWkW-cTZ5Fn/view?usp=drive_link)
 
 ### ESRI YSA Awards
+
+#### 2025
+
+**Result Announcement**: [https://web.esrichina.hk/ysa/result_announcement.aspx](https://web.esrichina.hk/ysa/result_announcement.aspx)
+
+**Group**
+
+1st runner up
+
+> **Project Title**: Tripping North?
+>
+> **Group Members**: CHAN Chun Ping, CHU Fong Wai, LAM Ting Hong, TONG Yuen King Belva (BA(US) Students)
+>
+> **StoryMap**: [https://arcg.is/1GX9LK0](https://arcg.is/1GX9LK0)
+
+2nd runner up
+
+> **Project Title**: Landslide Risk Analysis and Prediction in Hong Kong
+>
+> **Group Members**: CAO Yushu, CHEN Qiyan, LIU Xinran, LIU Yunsong, Mr. XIE Jinfeng (RPG Students)
+>
+> **StoryMap**: [https://arcg.is/0mH9qS](https://arcg.is/0mH9qS)
+
+Best StoryMap Design
+
+> **Project Title**: Paws in Hong Kong
+>
+> **Group Members**: CAO Run, GU Xiang, LI Xintian, XIAO Jiacheng, YI Chushu (MSc(Urban Analytics))
+>
+> **StoryMap**: [https://arcg.is/1bOOOT1](https://arcg.is/1bOOOT1)
+
+Best Use of Open Data
+
+> **Project Title**: Heat Resilience in Hong Kong: Risk Analysis and Planning
+>
+> **Group Members**: LIANG Weiyun, LIU Mingzhe, PENG Dan, WEI Caiyi, YU Xinhe, ZHONG Jia (MSc(Urban Analytics))
+>
+> **StoryMap**: [https://arcg.is/L8K9v](https://arcg.is/L8K9v)
+
+**Individual**
+
+1st runner up
+
+> **Project Title**: Mapping the Paw-sibilities
+> 
+> **Author**: CHIU Tsz Tung (BA(US))
+>
+> **StoryMap**: [https://arcg.is/0i4zP90](https://arcg.is/0i4zP90)
+
+2nd runner up
+
+> **Project Title**: Navigating Hot Weather: Surfing Through Heat Waves
+> 
+> **Author**: Daniel WONG (BA(US))
+>
+> **StoryMap**: [https://arcg.is/18nye02](https://arcg.is/18nye02)
+
+Best StoryMap Design
+
+> **Project Title**: Smart City: A Glimmer of Light for Red Minibus?
+> 
+> **Author**: AU Ho Yin (BA(US))
+>
+> **StoryMap**: [https://arcg.is/0KOiaK0](https://arcg.is/0KOiaK0)
+
+Best Use of Map-Sensitive Dashboard
+
+> **Project Title**: GO Hiking Now!
+> 
+> **Author**: Wu Xiajing (MSc(Urban Analytics))
+>
+> **StoryMap**: [https://arcg.is/1DKWX90](https://arcg.is/1DKWX90)
+
+Best 3D GIS Application
+
+> **Project Title**: From Concrete to Canopy
+> 
+> **Author**: LAM Ching Yuet Kary
+>
+> **StoryMap**: [https://arcg.is/1SGvGT0](https://arcg.is/1SGvGT0)
+
+Best Introductory Video Clip
+
+> **Project Title**: Universal Accessibility
+> 
+> **Author**: CHAN Tsz Tao
+>
+> **StoryMap**: [https://arcg.is/19mGWi](https://arcg.is/19mGWi)
 
 #### 2024
 
@@ -307,3 +397,4 @@ Analytics)), Shan Yan (MSc(Urban Analytics)), Xu Zhichen (MSc(Urban
 Analytics)), Yang Zhao (MSc(Urban Analytics))
 >
 > **Slides**: [https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/EXHPLXy_lgJPm3kQJNR4dHQBTguMCnPrS0thXvDA7FSB2w?e=lEFSJa](https://hkuhk-my.sharepoint.com/:b:/g/personal/xinyit_hku_hk/EXHPLXy_lgJPm3kQJNR4dHQBTguMCnPrS0thXvDA7FSB2w?e=lEFSJa)
+
